@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Supreme Judicial Court"
+decided: "1830-09"
+citations: ["10 Pick. 4", "27 Mass. 4"]
+reporter: "mass"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Seneca Holland et al. versus Lucinda Dickinson et al."]
+source_url: "https://static.case.law/mass/27/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2014258
+cites_cases: ["1 Pick. 512", "4 Pick. 511", "4 Pick. 75", "5 Pick. 360", "6 Pick. 395"]
+---
+
+# Holland v. Dickinson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The grounds of the demurrer seem to be, • that the Court have not equity jurisdiction over the case, and that there is a remedy at law.
+The plaintiffs contend that the bill discloses a trust within the meaning of the statute of 1817, giving to this Court equity powers in cases of trust “ arising in the settlement of estates.” It is not easy to determine from the language itself, what is the meaning of this clause of the statute, nor has it been ascertained by judicial decisions. We go no further at present than to say, that the case before us does not come within the statute.
+The relation of trustee and cestui que trust does not exist between these parties. The defendant Boltwood is a stranger to the plaintiffs, and has no other relation to the transaction than as agent of the other defendant, Lucinda Dickinson. She was the widow of Perez Dickinson, and the plaintiffs were two of his children and heirs at law. Some real estate descended to them, in which she had a right of dower. But she was not the administrator, nor their guardian, nor the person licensed to make the sale If therefore the sale of real estate, under a license by virtue of the statutes, may be regarded as a proceeding in the settlement of the estate of the deceased, whose lands are thus sold, and the person licensed as charged with a trust under the same, it would not reach this case, inasmuch as the widow exercised no such authority, and therefore stood charged with no such trust.
+The parol agreement set forth, as to the disposition to be made of the proceeds of these sales, was an after and independent agreement. It might have been very proper, to the due execution of the intentions of these parties, to provide that these proceeds should be placed in the hands of a trustee to invest and keep them at interest, to pay the interest to the widow during her life, and to distribute the principal among the heirs afterwards. But no such trust was created, and if there, had been, it would have been a trust arising under the agreement, and not under the settlement of an estate.
+Nor is there any better ground upon which to maintain the jurisdiction of the Court and sustain this bill, by force of the statute of 1823, c. 140, giving remedies in equity, where obligations and securities are wrongfully detained, and in cases of controversy between copartners, joint tenants, and tenants in common.
+By the agreement set forth in the bill, the widow, as to the fund in question, having one third of the proceeds of the real estate, was to receive the interest during her life, and then the aeirs to receive and distribute the principal.
+If no other person was appointed to receive the interest and pay it over to her, it seems to follow of course that she must have the control of the fund, in order to keep it at interest and to receive the income. This might be an improvident agreement, and might render the fund for the heirs insecure ; but this would arise from the nature of the agreement itself, and would not warrant a proceeding in equity, to take from her the control of the fund acquired under it. If such was the effect of the agreement, the defendant Lucinda Dickinson seems entitled to the sole control of the fund, and of course to the custody of the securities, and so it was considered by the parties, by delivering them to her. Nor are the plaintiffs tenants in common with her, either in the fund itself or in the securities.
+There is one suggestion in the bill, entitled to a pasting notice ; it is, that the notes, secured by sureties and also by mortgage, given by Samuel F. Dickinson, for the amount in controversy, were in terms made payable to the plaintiffs and others, the heirs of Perez Dickinson, and the interest only made payable to Lucinda Dickinson. If such is the fact, it is difficult to perceive how any valid payment of the principal can be made to her, or how the fact of her giving up or surrendering the note, it being done wrongfully and without autborty, can afford any valid discharge to the persons liable for such note and mortgage. If such be the case, we do not perceive why the heirs may not, by preserving proof of the fact, when their right to- collect the principal, by the terms of the obligation, accrues, by the death of the widow, bring their action and recover the amount.' These remarks however are founded upon a suggestion in the bill, not very fully developed, and may perhaps not be warranted by the facts as they actually exist. If it were so however, until their right does accrue, the widow would be entitled to the custody of the securities, and the remedy of the plaintiffs would be at law. We are therefore of opinion that the case is not within either of the statutes cited, that it is not within the equity jurisdiction of the Court, and therefore must be dismissed.
