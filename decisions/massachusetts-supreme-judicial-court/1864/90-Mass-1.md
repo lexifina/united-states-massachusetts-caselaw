@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Supreme Judicial Court"
+decided: "1864-01"
+citations: ["8 Allen 1", "90 Mass. 1"]
+reporter: "mass"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lydia H. Pettingill vs. Warren Porter & others."]
+source_url: "https://static.case.law/mass/90/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2120381
+cites_cases: ["14 Johns. 224", "14 Mass. 49", "14 Pick. 224", "17 Johns. 161", "17 Mass. 443", "2 Allen, 543", "2 Cush. 332", "2 Met. 234", "24 Pick. 102", "3 Allen, 349", "3 Pick. 60", "4 Pet. 88", "5 Gray, 445", "7 Allen, 364", "7 Gray, 18"]
+---
+
+# Pettingill v. Porter
+
+## Majority (Chapman, J.)
+
+Chapman, J.
+1. The plaintiff claims title in her intestate, to the land to which the alleged way is claimed as appurtenant, under a deed of Warren Porter to Moses Welch. The defendants offered in evidence a subsequent deed from Warren Porter to Moses Welch, conveying an adjoining tract of land. The plaintiff does not claim that the alleged way was appurtenant to the land conveyed in this deed, and the defendant offered it for the purpose of taking advantage of the recitals therein as to the boundaries and ownership of the adjoining estate, over which the alleged way passed. This evidence was properly excluded, because, although both the parties were dead, it was a recent transaction; and because, if it tended to show that Warren Porter claimed title to the adjoining estate in 1848, it cannot be inferred therefrom that he claimed such title in 1846, when he made the other deed to Welch.
+2. The defendants requested the court to instruct the jury that there was no evidence of the existence of any right of way by prescription, up to the time when Warren Porter conveyed to Moses Welch in 1846. It sufficiently appeared that the way had been used; but the request was based upon the alleged ground that Warren Porter owned the triangular piece over which the way passed. But questions of fact were in dispute as to the actual position and boundaries of the lots, and the question appears to have been properly left to the jury.
+3. The defendants object to the qualified ruling of the court, that no right of way over what was Warren Porter’s land would pass by the deed relied on by the plaintiff, unless it appeared that the grantee could not obtain access to his house by another route, without unreasonable labor and expense. This instruction was based on the assumption of the defendants that Warren Porter owned the triangular piece when he made his first deed to Welch. It appears that the only way which he had been accustomed to pass over to reach the highway had been across this triangular piece; and the question which arose between the parties was, whether, as he did not convey the triangular piece, or expressly convey a right of way over it, such right passed under the grant of “ all the privileges and appurtenances thereto belonging.”
+The instruction on this subject was, “that the deed under which the plaintiff claimed conveyed whatever was necessary to the beneficial enjoyment of the estate granted, and in the power of the grantor to convey ; that it was not enough for the plaintiff to prove that the way claimed would be convenient and beneficial, but she must also prove that no other way could be conveniently made from the highway to her intestate’s house, without unreasonable labor and expense; that unreasonable labor and expense means excessive and disproportionate to the value of the property purchased ; and that it was a question for the jury, on all the evidence, whether such new way could be made without such unreasonable labor and expense.”
+The court are of opinion that this instruction was correct. The word “ necessary ” cannot reasonably be held to be limited to absolute physical necessity. If it were so, the way in question would not pass with the land, if another way could be made by any amount of labor and expense, or by any possibility, If, for example, the property conveyed were worth but one thousand dollars, it would follow from this construction that the plaintiff’s intestate would not have the right of way over the triangular piece as appurtenant to the land, provided he could have made another way at an expense of one hundred thousand dollars. If the word “ necessary ” is to have a more liberal and reasonable interpretation than this, the one adopted by the judge must be regarded as correct. Its effect was, to require proof that the way over this triangular piece was reasonably necessary to the enjoyment of the dwelling-house granted. See Ewart v. Cochrane,7 Jur. (N. S.) 925; Leonard v. Leonard, 2 Allen, 543; Carbrey v. Willis, 7 Allen, 364.
+4. As the facts were properly submitted to the jury, and evidence was admissible as to the consideration paid for the land and the cost of making a way, it was proper that the jury should compare the facts together and make such inferences as they should think reasonable. The instruction on this point was correct. Exceptions overruled.
