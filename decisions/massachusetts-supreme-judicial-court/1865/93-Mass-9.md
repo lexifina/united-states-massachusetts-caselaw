@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Supreme Judicial Court"
+decided: "1865-10"
+citations: ["11 Allen 9", "93 Mass. 9"]
+reporter: "mass"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rebecca S. Perkins vs. George S. Jewett."]
+source_url: "https://static.case.law/mass/93/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 313740
+cites_cases: ["10 Cush. 157", "11 Pick. 347", "12 Pick. 436", "13 Johns. 531", "2 Met. 44", "2 Met. 45", "3 Met 423", "35 N. H 43", "5 Pick. 512", "9 Pick. 293", "9 Pick. 296"]
+---
+
+# Perkins v. Jewett
+
+## Majority (Dewey, J.)
+
+Dewey, J.
+The devise under which the demandant claims to hold the demanded premises is in these words: “ Also my dwelling-house, outbuildings and house lot constituting my homestead estate.” No other clause in the will gives us any aid in the construction of this devise. In deciding upon the particular parcel of land embraced in the devise, we are to refer to external objects and facts existing aliunde. If we find that there existed at the death of the testator a well defined homestead estate, known and used as such by him, and corresponding with the description given in the devise, and which exhausts the devise, such homestead passes under the will.
+In the present instance, we do find that the testator as early as 1825 became the owner of a house lot, upon which he erected a house and outbuildings, and upon which he resided until his death in 1859. The application of this devise to these premises would present no difficulty. It would satisfy all calls of the devise, and give full effect to the words used. The case therefore requires no extended or doubtful construction or application of the will, to find a proper subject to which the devise may be applied. Such was the well known homestead of the testator up to the year 1844. In that year he purchased an adjoining piece of land in the rear of his house lot, fronting upon another street, and subsequently sold a part of it, and retained the residue ; and the further inquiry is, whether this latter parcel is embraced in the devise to the demandant ? It is adjoining the old homestead lot, but separated by a board fence, and has always remained thus separated. It has not been used by the testator in connection with the old homestead, but occupied by tenants who paid rent therefor, and used it for a garden and a wood-yard.
+The demandant’s evidence tended to show that the testator bought this lot for the purpose of having a passage from Academy Street to the back of his other lot, his house fronting on Main Street. But it was admitted that he never used it as a passage, or made any use of it whatever by himself or his family. There was also evidence that he had refused to sell the lot, declaring that he bought it for the benefit of his front lot, and for his own convenience, and to annex to his home lot. But there was no evidence that he ever called it his homestead, or spoke of it as a part of his homestead.
+In deciding whether this lot thus purchased in 1844 was in fact attached to the homestead, so as to be parcel thereof, the fact of unity of possession and actual occupation in common with the former estate have been regarded as the most decisive tests. When these have existed, great latitude of construction has been permitted, to carry out the supposed intention of the testator to embrace as a part of his devise the land newly attached to his old homestead. Occupation or non-occupation of the newly purchased lot by the owner of the old homestead in connection therewith must be considered as a most important element, upon the question whether it ever became a part of the homestead. Otis v. Smith, 9 Pick. 296. Eliot v. Thatcher, 2 Met. 44, n. Not that the circumstarice that a portion of a well known and defined homestead has been occupied temporarily by a tenant would affect the construction of a devise, or prevent the entire homestead from passing as a homestead to a devisee; but the case to which the principle we have stated applies is, where there is the absence of any previous use and occupation of the premises as a homestead at any time.
+The fact of being under one common inclosure or not would also be a circumstance of some weight. But here it appears that the fence whicv separated the two parcels when owned by different owners remained unchanged from 1844 to the death of the testator.
+The evidence indicating a purpose of the testator to have the control of this lot in his own hands, and to usé it for any objects which might suit his convenience, or to annex it to his homestead, fails to establish the fact of its becoming a part of the homestead. The difficulty in sustaining the claim in behalf of the demandant is, that nothing was ever done from the time of the purchase of this lot to the death of the testator, a period of fifteen years, in the least indicative of an annexation of this parcel to the homestead lot, as parcel thereof.
+The intentions of the testator as to the future appropriation and use of the newly purchased lot, whatever they may have been prospectively, were not executed, and did not £j upon it the character of a homestead, or parcel thereof.
+The case of the demandant cannot be put upou. die ground suggested by her counsel, that this lot is necessary for the convenient enjoyment and use of the house lot, as the evidence shows no such necessity. The question in the present case is as to a matter of fact, namely, had this parcel become a part of the house lot and homestead of the testator ? Except that he had acquired a legal title to it, we see no a ,is done by him giving to this lot this character.
+In the opinion of the court, the superior cou„t, for the reasons assigned by them, as stated in the bill of exceptions, properly ruled that the demanded premises did not pass by the devise to the demandant.
+Exceptions overruled.
