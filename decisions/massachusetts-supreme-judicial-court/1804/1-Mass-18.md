@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Supreme Judicial Court"
+decided: "1804-09"
+citations: ["1 Will. 18", "1 Mass. 18"]
+reporter: "mass"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["* Thomas Gold, Appellant, versus Alexander M’Mechan."]
+source_url: "https://static.case.law/mass/1/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 42602
+---
+
+# Gold v. M'Mechan
+
+## Majority (Thacher, J., Sewall, J. Sedgwick, J. Strong, J.,)
+
+Thacher, J.,
+said he was of opinion that the decree of the judge of probate ought to be affirmed.
+Sewall, J.
+It does not appear from the reasons of appeal filed, nor is it otherwise pretended that the administrator, though ne objected against this claim, requested of the judge to have it stricken out of the report, or that any notice was given to the claimant that he must prosecute therefor at the common law The question, therefore; now before the Court seems to be whether the Probate Court below, or this Court, as the Supreme Court of Probate, can examine the merits of a claim reported by commissioners to the effect of disallowing it according to the first reason of appeal, *or of altering it according to the second reason of appeal.
+I am clearly of opinion that this Court have no authority in this manner, or with such a purpose, to examine the reports of commissioners upon the claims against insolvent estates.
+Among the many reasons which might be offered, there is one ground for this opinion which I think altogether sufficient. It is that in the act respecting insolvent estates, the legislature make an especial provision for the case alleged, without any allusion to or supposition of a power in the Probate Court to examine or determine upon the claims of a creditor. The statute prescribes a mode of appeal, whether desired by the administrator or a creditor, from the report of the commissioners. In both cases, the remedy is to be an action to be tried and determined in the course of the common law.
+I have been desirous, if it might be done, to afford relief in this case conformably to the suggestion of the appellant’s counsel, at the close of his argument, and allow the administrator to object at this time to the report, in such manner as to have this disputed claim struck out, and the creditor put to his action therefor, to be pursued in the course of the common law. But considering the special circumstances of this appeal, and the nature of the objection suggested against the particular claim, I think this Court more limited in their authority in this case than in ordinary appeals, and no equitable inducements appear for the enlargement of their authority. In no, case, however, may the Court go beyond the reasons of appeal, unless it may be to correct some error of the Probate Court, apparent in their record. The present case exhibits no reason of appeal upon which the Court could proceed to strike this claim from the report of the commissioners; and * to the decree of the judge, or the report established thereby, there is no objection from any circumstance apparent on the record.
+Sedgwick, J.
+(after stating the case.) None of the reasons of the appeal have been insisted on, excepting the two first. Relative to these, I am clearly of opinion that if, in the instances set forth, the administrator de bonis non, had a remedy, it is not of the nature sought for by this appeal. This Court has no authority in this case but as a court ofiprobate of appellate jurisdiction. In other words this Court has no greater nor other power on the. appeal, than the judge below might and ought to have exercised. The power and duty of the judge, and all his power and duty, on this subject, are detailed in the statute, passed on the 15th of June, 1784, (stat l™84, c. 2,) for the distribution of insolvent estates.
+By this act, on a representation of insolvency, the judge is to appoint commissioners to receive and examine the claims of creditors, who, having observed the rules prescribed, are to make a report, and present upon oath a list of all the claims that shall have been laid before them, with the sums they shall allow on each claim— whereupon the judge, after having provided for the payment of the services of the commissioners, the debts due to the commonwealth, taxes, the expenses of the last sickness of the deceased, and his funeral expenses, is to order the residue and remainder of the estate to be distributed “ to and among the creditors who shall have made out their claims with the commissioners, in proportion to the sums to them, respectively due and owing.” Now this duty of the judge is clearly and unequivocally declared, and in this case, has been exactly pursued by him. If any demand was allowed which ought not to have been ; or more, to any creditor, than in the opinion of the administrator was justly due, *he was not without remedy. He not only had it in his power to object, specifically, to any demand, but it was his duty so to have done. The same statute, after providing a mode in which a creditor, whose claim shall have been rejected, may obtain justice, enacts, that “ in case the executor or administrator shall be dissatisfied with any creditor’s claim allowed by the commissioners, and shall give notice thereof at the probate office, and also to the creditor, within twenty days, such claim shall by the judge be struck out of the commissioners’ report, unless the creditor shall commence and prosecute at the common law, his claim as soon as njay be, &c.’ This was his remedy, and the only remedy which the law has provided ; and it is ample for the purpose for which it was intended. It. is the remedy to which the administrator ought to have resorted, which having neglected, it is beyond our power to substitute thal which is sought by this appeal. The proceedings of the judge must therefore be affirmed.
+Strong, J.,
+declared himself to be of the same opinion.
+Decree affirmed,
