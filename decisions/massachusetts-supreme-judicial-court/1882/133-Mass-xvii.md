@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Supreme Judicial Court"
+decided: "1882-05-13"
+citations: ["133 Mass. xvii"]
+reporter: "mass"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick H. Viaux & another vs. Old South Society in Boston."]
+source_url: "https://static.case.law/mass/133/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2150882
+cites_cases: ["101 Mass. 255", "104 Mass. 214", "106 Mass. 404", "107 Mass. 550", "108 Mass. 561", "116 Mass. 105", "22 W. R. 574", "51 N. Y. 124", "55 N. Y. 319"]
+---
+
+# Viaux v. Old South Society
+
+## Majority (Morton, C. J.)
+
+Morton, C. J.
+The evidence ,tended to show that the defendant employed the plaintiffs as real-estate brokers to effect a sale of its property at the corner of Washington Street and Milk Street in Boston. There was no evidence of any contract by the defendant that the plaintiffs should have the exclusive right to sell the property, or that they should be entitled to any commissions except upon a sale effected by them. The plaintiffs relied upon a usage that a broker, whose services are accepted by the seller, and who introduces the seller to an ultimate purchaser, is entitled to a commission upon the amount for which the estate is sold, if ultimately purchased by the person so introduced, whether or not the sale is finally effected by the same broker or other parties. Under the contract implied by the employment of a person as a broker, as modified by this usage, the broker becomes entitled to his commissions when he has found a purchaser and has brought the parties together, if a sale is made to the purchaser. But he is not entitled to recover, unless he finds and introduces a person who becomes a purchaser. Tombs v. Alexander, 101 Mass. 255. Loud v. Hall, 106 Mass. 404.
+It appeared in this case that the plaintiffs rendered some services as brokers in attempting to sell the property to Royal M. Pulsifer, which would have entitled them to their commissions if Pulsifer had purchased the estate. At the trial, the court so ruled in favor of the plaintiffs, and left, it to the jury, under instructions as to what would constitute a purchaser, which are not open to exception, to determine whether Pulsifer was a purchaser of the property. The finding of the jury to the effect that he was not the purchaser is conclusive against the plaintiffs’ right to recover, unless the undisputed facts show, as matter of law, that he was a purchaser. We are of opinion that the facts do not show this. The evidence clearly shows that Pulsifer at one time thought of buying the estate for the purposes of his business, but that he abandoned this idea. A subscription was raised for the purpose of preserving the Old South Church standing on the estate as an historical monument. Henry Lee and others, a committee of the subscribers, employed one Cot-ting as their agent, and he entered into negotiations for the property which resulted in an agreement by the defendant to sell the property. Neither the plaintiffs nor Pulsifer had any connection with these negotiations.
+The subscriptions were not sufficient to pay the price agreed upon, and it was necessary to borrow a large sum of money upon a mortgage of the estate. The lender required that the mortgage note should be signed by some known responsible person, and thereupon the committee induced Pulsifer to take the conveyance to himself, and to sign the mortgage and note. He had nothing to do with the purchase. He had no interest in the estate. He consented to take the deed and execute the mortgage and note as a mere trustee or conduit to carry out the purposes of the committee, who were the real purchasers. There is no more reason for calling him the purchaser, within the meaning of the usage relied upon by the plaintiffs, than there would be if he had directly lent the money and taken a mortgage to himself. The facts conclusively show that he was not such purchaser.
+The view we have taken makes it clear that the court rightly refused the plaintiffs’ request for instructions. Under their contract they could only recover upon proof that they found and introduced the person who became the ultimate purchaser. Even if the information furnished by the plaintiffs to Pulsifer induced him to take the position he did in regard to the property, and if thus the efforts of the plaintiffs were material in inducing the sale to the committee, the plaintiffs cannot recover, because such are not the terms of their contract. The defendant never promised to pay them commissions except upon the condition that they procured a purchaser, which they failed to do. Exceptions overruled.
