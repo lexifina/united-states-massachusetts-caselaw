@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Supreme Judicial Court"
+decided: "1809-10"
+citations: ["5 Tyng 60", "6 Mass. 60"]
+reporter: "mass"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["* Ralph W. Jewett, in scire facias, versus John Bacon"]
+source_url: "https://static.case.law/mass/6/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2000705
+---
+
+# Jewett v. Bacon
+
+## Majority (Parsons, C. J.)
+
+Parsons, C. J.
+The statute of 1794, c. 65, which authorizes the attachment by a creditor of his debtor’s goods, effects, and credits, in the hands of his trustee, provides, in the tenth section, [*61 ] that, when the trustee is holden * to deliver to the debtor, at a future day, any specific articles other than money, the trustee may, in discharge of himself, tender them to the officer having the execution, who shall receive them at an appraised value. On this section the plaintiff has argued that the defendant, being holden, when the original writ was served, to deliver, at a then future day, a specific quantity of hay to Maxwell, the principal debtor, must be adjudged trustee to the value of the hay.
+There does not appear to be any doubt as to the true construction of this section. When the trustee has contracted to deliver specific articles at a future time, it is immaterial to him, when the time shall arrive, whether he deliver them to his creditor, or to an officer. If the contract be to pay a certain sum in merchandise, care is taken to have the merchandise equitably appraised, in case Ihe parties had not fixed the price, or agreed on the mode of ascerlaining it; or the contract may be, as in the present case, to deliver a specific quantity of merchandise, when it will be immaterial to the trustee what the price may be.
+But it is not the intention of this section materially to vary the contract, by obliging the trustee to deliver the merchandise at any other time or place, than according to his contract. And if, by the default of his creditor, he is discharged from his contract to deliver the merchandise to him, he is also discharged as his trustee. —Now, the first parcel of hay was to be delivered on the defendant’s farm m July, 1808, and he was obliged to deliver it at no other time or place. But at that time the original suit was pending ; and neither Maxwell nor the sheriff were there to receive it. Maxwell, from nis neglect, has no cause of action on the first note ; neither can the defendant be adjudged his trustee on account of that note -When the second parcel of hay was to be delivered, no execution was in the hands of any officer, authorizing him to receive the hay; but this scire facias was then pending. Nor does it appear that Maxwell was ready to receive the hay. The defendant is therefore discharged on the second note. /
+* Upon any other construction, by which the defendant [ * 62 ] would be charged as trustee, either he must pay the value of the hay, without the option of performing his contract by delivering the hay, or, instead of delivering it in July, he must keep it at his own expense and risk, until the succeeding winter, when the officer demanded the first parcel. — As to the second parcel, there is no pretence for charging the defendant as trustee, for the time of delivery had not arrived, when the officer demanded of the defendant on the execution the effects and credits of Maxwell, nor until some time afterwards, when this suit on the scire facias was pending.
+As to the first note, the defendant has insisted on his discharge on another ground —that the note was the joint note of Richardson and himself, and that Richardson satisfied -it when due, so that l he contract is determined as well to himself as to Richardson. This argument appears to have great weight. Richardson, not being a party or privy to this suit, cannot be affected by any judgment that can be given. As a several as well as joint promisor, he might legally discharge the contract at his pleasure, without, or even against, the assent of the defendant. And if he discharged it when liable to be called upon to fulfil it, he is entitled to an indemnity against the defendant, for whom he was surety. — The law, therefore, will not require the defendant to pay the value of the merchan dise to a creditor of the promisee, and at the same time leave him liable to indemnify his surety for satisfying the promisee. When, therefore, a debtor holds a joint contract against two or more, and his creditor would avail himself of the benefit of this contract under this special attachment, he must summon all the parties liable by law to discharge it.
+The defendant in this case, not being a trustee of Maxwell, must be discharged ; but as he did not submit to an examination on the original suit, he must pay costs.
