@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Supreme Judicial Court"
+decided: "1812-05"
+citations: ["8 Tyng 14", "9 Mass. 14"]
+reporter: "mass"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moses Hamilton versus Moses Lyman."]
+source_url: "https://static.case.law/mass/9/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029636
+cites_cases: ["3 Bibb. 334"]
+---
+
+# Hamilton v. Lyman
+
+## Majority (Parker, J.)
+
+The cause stood continued nisi for advisement, and the next week, at Portland, the opinion of the Court was pronounced by
+Parker, J.
+This is an action of trespass and false imprisonment, to which the defendant has pleaded a judgment recovered by himself and Abigail Lyman against the plaintiff, for possession of certain premises of which he had disseised them, and for costs of the suit; and that upon a pluries writ of execution, which issued in his name alone, the plaintiff was arrested; which is to be understood to be the same imprisonment, &c.
+To this plea there is a demurrer and joinder ; and in support of the demurrer the plaintiff’s counsel has alleged several reasons.
+In the first place, he objects that by the plea it appears that the execution, upon which the arrest took place, did not issue within a year and a day after the rendition of the judgment, and it does not appear that any former writs had issued and been returned, whereby the issuing of the writ set forth in the plea would be justified.
+But we are satisfied that, upon this demurrer, this objection must fail. It would have been sufficient for the defendant generally to have set forth in his plea that he had recovered judgment, that execution had issued thereon, and that, by force of such execution, he had caused the arrest complained of, leaving the plaintiff, in his replication, to show any defects, if any existed. — Further, the execution is described as a pluries writ, which technically presupposes two or more writs issued and returned before it; and as the judgment was rendered at October term, * 1807, and there are but two terms of the Court holden in this county annually, an execution must have been issued within a yeai and a day of the" judgment, and have been returned, to have author ized the clerk to issue an alias execution, and that alias must have been returned before the pluries could legally have been issued; and what ought by law to have been done, we may presume was done, before this execution was issued.
+But a more important objection is, that the clerk has issued the execution in a form not provided by law, and that it does not strict ly pursue the judgment.
+The judgment is rendered in favor of Abigail Lyman and Moses Lyman, for the possession of certain lands and tenements; and a writ of habere facias had issued upon that judgment, commanding the sheriff to put the said Abigail and Moses in possession, and to levy the costs of suit. It is alleged in the plea in bar, that the judgment remained unsatisfied for the costs only, and the writ of execution is set forth in the plea. In the writ the clerk has recited, before the mandatory part, that Abigail Lyman had died since the rendition of judgment; and the sheriff is commanded by the writ to raise the money, and cause it to be paid to Moses Lyman, the surviving party to the judgment.
+It is contended by the plaintiff’s counsel, that this writ of execution, so issued, was void; and that the arrest under it was therefore illegal. The principle assumed by the counsel is, that where there are two or more judgment creditors, and before execution issues one of them dies, the survivors are put to their scire facias before they can have execution upon their judgment. No authority has been produced in support of this principle ; but, on the contrary, the course of the books shows that the proper mode of proceeding in such case would be to take out the execution conformed to the judgment, in the name of all the creditors, without regarding the death of any one; and this should have been the course *here. A scire facias seems necessary only when the execution is to issue in the name of some person not
+a "party to the record, as an executor or administrator; or where, by lapse of time, the right to an execution is lost, and the party in interest wishes to revive it. Probably, however, in a case like the present, on suggestion made to the Court of the death of one of the creditors in a judgment, where the interest survived, after judgment and before the issuing of an execution, the execution would be ordered to issue in the name of the survivor only.
+But it appears that, in England, the deceased party may be omitted-in the execution, upon a suggestion on the roll of the intervening death. This is, without doubt, a suggestion out of court, in the office of the legal keeper of the rolls, and seems to be analogous to the proceeding of the clerk in the case before us, and it probably led to the course adopted. We are not, however, satisfied with the regularity of the practice, although we are by no means prepared to say that the execution was for this cause void. Had it issued in the name of Abigail Lyman and Moses Lyman, the latter would have had the sole control over it; he alone could have discharged it, and he was alone entitled to receive the avails of it. The situation of the debtor was in no degree changed; his rights remained the same, and his remedy for any defect or omission the same.
+We therefore think that as, on motion to the Court by the surviv ing judgment creditor, the clerk would probably have been directed to issue it in the name of the survivor only, his issuing it in that manner, without order, is not such an irregularity as makes the execution void even against the creditor himself; and that the arrest was not an unlawful act.
+Plea in bar adjudged good.
+[2 Tidd. R. 8th ed. 1171.—Archb. Pr. K. B. vol. ii. p. 92. Johnson vs. Lynch, 3 Bibb. 334. — Ed.]
+[No instance can be found of a suggestion upon the record of the death of any party in a cause, which happened after the rendition of final judgment therein ; nor any ?ose wherein it has been expressly held that execution issuing in the name of the survivors onlyy under such circumstances, was good. Suggestions of this kind usually purport to be made in Court, and contain the allegation that the fact suggested is not denied, but admitted by the adverse party to be true. And all the books of practice agree that, in this case, the execution ought to issue in the name of all the plaintiffs or defendants; otherwise it will not be warranted by the judgment. (Tidd, Pr. 8 ed. 1171, 2d Saund. 72, i.) And if so, it would seem that the defendant was liable in trespass. (Chitt. 4, ed. 169.) — Ed.]
+[See Bowdoin & Ux. vs. Jordan, post. 160. — Ed.]
